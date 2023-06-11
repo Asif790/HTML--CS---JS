@@ -1,0 +1,21 @@
+body{
+    background: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: darkgoldenrod;
+    padding-top: 50px;
+}
+
+.tab-btn{
+    padding: 20px;
+}
+
+#btn{
+    background: darkgoldenrod;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
